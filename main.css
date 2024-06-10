@@ -1,0 +1,30 @@
+body{
+    color: rgb(222, 122, 208);
+}
+a{
+    color:rgb(163, 55, 148);
+}
+.scream{
+    color:blueviolet
+}
+img{
+    width: 100%;
+}
+.wrapper{
+    max-width: 920px;
+min-width: 320px;
+margin: 0 auto;}
+.ladno{
+    color:rgb(95, 220, 255);
+}
+.textBigGreen{
+    text-transform: uppercase; color: greenyellow;
+}
+.loxlesnoi{color:rgb(128, 172, 255);
+text-transform: uppercase;}
+p{
+    text-align: justify;
+}
+.Valera{
+    color: rgb(123, 8, 255);
+}
